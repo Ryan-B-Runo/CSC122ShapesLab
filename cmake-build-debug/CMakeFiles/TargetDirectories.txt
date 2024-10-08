@@ -1,3 +1,0 @@
-C:/Users/nessa/OneDrive/Documents/GitHub/CSC122ShapesLab/cmake-build-debug/CMakeFiles/CSC122ShapesLab.dir
-C:/Users/nessa/OneDrive/Documents/GitHub/CSC122ShapesLab/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/nessa/OneDrive/Documents/GitHub/CSC122ShapesLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir

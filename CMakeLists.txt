@@ -7,6 +7,6 @@ add_executable(CSC122ShapesLab
         main.cpp
         test.cpp
         Circle.cpp
-        Circle.h)
+        Circle.h
         Shape.h
 )
