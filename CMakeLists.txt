@@ -9,4 +9,8 @@ add_executable(CSC122ShapesLab
         Circle.cpp
         Circle.h
         Shape.h
+        Rectangle.cpp
+        Rectangle.h
+        RightTriangle.cpp
+        RightTriangle.h
 )
