@@ -13,6 +13,7 @@ private:
     double radius;
 
 public:
+    Circle(){};
     explicit Circle(double r) : radius(r) {}
 
     double getArea() override {

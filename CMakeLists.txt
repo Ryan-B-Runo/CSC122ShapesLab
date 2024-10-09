@@ -5,7 +5,6 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(CSC122ShapesLab
         main.cpp
-        test.cpp
         Circle.cpp
         Circle.h
         Shape.h
@@ -13,4 +12,7 @@ add_executable(CSC122ShapesLab
         Rectangle.h
         RightTriangle.cpp
         RightTriangle.h
+        Square.h
+        IsocelesRightTriangle.h
+        IsocelesRightTriangle.cpp
 )

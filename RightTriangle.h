@@ -10,10 +10,11 @@
 
 
 class RightTriangle : public Shape {
-private:
+public:
     double base, height;
 
 public:
+    RightTriangle(){};
     RightTriangle(double b, double h) : base(b), height(h) {}
 
     double getArea() override {
@@ -24,8 +25,5 @@ public:
         return base + height + std::sqrt(base * base + height * height); // Perimeter = base + height + hypotenuse
     }
 };
-
-
-
 
 #endif //RIGHTTRIANGLE_H

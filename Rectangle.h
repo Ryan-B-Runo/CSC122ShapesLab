@@ -12,6 +12,7 @@ private:
     double width, height;
 
 public:
+    Rectangle(){};
     Rectangle(double w, double h) : width(w), height(h) {}
 
     double getArea() override {
