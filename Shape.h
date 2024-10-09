@@ -3,6 +3,8 @@
 
 class Shape {
 public:
+    virtual ~Shape() = default;
+
     virtual double getArea() = 0;
     virtual double getPerimeter() = 0;
 };
