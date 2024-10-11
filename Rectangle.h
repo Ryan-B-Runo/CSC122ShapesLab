@@ -8,7 +8,7 @@
 
 
 class Rectangle : public Shape {
-private:
+public:
     double width, height;
 
 public:
