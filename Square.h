@@ -1,7 +1,3 @@
-//
-// Created by ryanb on 10/9/2024.
-//
-
 #ifndef CSC122SHAPESLAB_SQUARE_H
 #define CSC122SHAPESLAB_SQUARE_H
 #include "Rectangle.h"
@@ -11,8 +7,8 @@ public:
     explicit Square(int side) {
         this->width = side;
         this->height = side;
+        this->name = "Square";
     }
 };
-
 
 #endif //CSC122SHAPESLAB_SQUARE_H
